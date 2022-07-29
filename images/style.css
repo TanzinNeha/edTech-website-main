@@ -1,26 +1,4 @@
-#footer .container .d-flex {
-    width: 100%;
-    display: block;
-    text-align: center;
-    margin: 0px;
-  }
-
-  #footer .container .d-flex li a {
-    font-size: 22px;
-  }
-
-  #footer .container .d-flex li {
-    margin: 15px 0;
-  }
-
-@media only screen and(max-width: 1200px) {
-   
-    #one {
-    position: relative;
-    margin-top: 30%;
-    color: white;
-    font-size: 2em;
-
-    }
-
+.container-foot{
+ justify-content: center;
+align-items: center;
 }
